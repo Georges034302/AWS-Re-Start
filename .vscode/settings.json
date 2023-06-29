@@ -1,5 +1,21 @@
 {
     "python.analysis.extraPaths": [
         "./Python/python6-Files"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 1433,
+            "driver": "MySQL",
+            "name": "MySQLConnection",
+            "database": "mydb",
+            "username": "root",
+            "askForPassword": true
+        }
     ]
 }
