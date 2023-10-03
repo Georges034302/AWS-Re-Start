@@ -1,6 +1,0 @@
-Hello world
-welcome to python
-AWS is cool
-python is fun
-Java is also fun
-This script is cool

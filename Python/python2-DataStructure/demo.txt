@@ -1,5 +1,0 @@
-Working with files in Python is easyPython is funNow we jumped to a new line
-now it does
-welcome to python
-now we know how to write data to a file
-now we know how to read from a file
