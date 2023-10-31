@@ -1,0 +1,2 @@
+2023-10-31 11:49:22,347 : ERROR : __main__ : ValueError: w should be integer
+2023-10-31 11:54:59,787 : ERROR : __main__ : b cannot be zero
