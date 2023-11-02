@@ -32,6 +32,8 @@ def run():
     while s != '*':
         structure.append(frequencies(s))
         s = input('string: ')
-    view(structure)    
-    
-run()
+    view(structure) 
+       
+# This indicates that 'run()' is now the main method - driver function   
+if __name__ == '__run__':
+    run()
