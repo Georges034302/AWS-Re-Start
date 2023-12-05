@@ -1,0 +1,10 @@
+AWSTemplateFormatVersion: '2010-09-09'
+
+Description: My S3 simple cfn stack
+
+Resources:
+  s3Bucket:
+    Type: AWS::S3::Bucket
+    Properties: 
+      BucketName: cfn-bucket-demo-2023
+      AccessControl: Private
